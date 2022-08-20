@@ -1,0 +1,6 @@
+/*Dentro de .App tem um .Cards*/
+.App .Cards {
+    display: flex;
+    justify-content: center;    
+    flex-wrap: wrap;
+}
